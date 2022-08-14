@@ -4,4 +4,4 @@ start:
  - npm i
  - npm start
 
- preview: 
+ preview: https://keen-capybara-979949.netlify.app/
